@@ -25,5 +25,5 @@ python main.py
 ```
 
 ## Preview
-![Gameplay](Images/level3_preview.png)
 ![Main Menu](Images/3_Menu_Normal.png)
+![Gameplay](Images/level3_preview.png)
