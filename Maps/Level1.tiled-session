@@ -1,0 +1,227 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level_3.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/FILES/Python_things/A2 level/NEA_2025/Sprites/Hero animations.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "C:/FILES/Python_things/A2 level/NEA_2025/Sprites/here_an2.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/FILES/Python_things/A2 level/NEA_2025/Sprites/roguelikecreatures.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 2
+        },
+        "Download72575.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Four Leaf Complete Asset Pack.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 2
+        },
+        "Idle_lef_SMALLt.tsx": {
+            "scaleInDock": 8,
+            "scaleInEditor": 2
+        },
+        "Idle_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "LEVEL1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 629.3333333333334,
+                "y": 366
+            }
+        },
+        "Level11.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 398.6666666666667,
+                "y": 269.99999999999994
+            }
+        },
+        "Level_1.tmx": {
+            "scale": 1,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 320,
+                "y": 167.5
+            }
+        },
+        "Level_1_enlarged.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 270,
+                "y": 48.5
+            }
+        },
+        "Level_1b.tmx": {
+            "scale": 1,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 397,
+                "y": 168.5
+            }
+        },
+        "Level_2.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 264,
+                "y": 167.5
+            }
+        },
+        "Level_3.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 286.5,
+                "y": 191.5
+            }
+        },
+        "Medieval_character_asset_pack.tsx": {
+            "scaleInDock": 11,
+            "scaleInEditor": 4
+        },
+        "SASAS.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "SimonSpriteSheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets_format/Dungeon3_Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Tilesets_format/Forest.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tilesets_format/Jungle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets_format/Portal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets_special/Dungeon1_Tileset.tsx": {
+            "scaleInDock": 2
+        },
+        "Tilesets_special/Dungeon2_Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets_special/Dungeon3_Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets_special/Forest.tsx": {
+            "scaleInDock": 1.5
+        },
+        "Tilesets_special/Jungle.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Tilesets_special/PlayerTileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Tilesets_special/Portal.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets_special/Rogue_creatures.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "dangeon.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 3
+        },
+        "fist_tileset.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "hero_spritesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "isometric_grass_and_water.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "level1_enlarged.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1059,
+                "y": 626.5
+            }
+        },
+        "perspective_walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sdasdad.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "sewer_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tmw_desert_spacing.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/FILES/Python_things/A2 level/NEA_2025/Maps",
+    "map.height": 21,
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": "2",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Level_1.tmx",
+        "Level_2.tmx",
+        "Level_3.tmx"
+    ],
+    "project": "Level1.tiled-project",
+    "recentFiles": [
+        "Level_1.tmx",
+        "Level_2.tmx",
+        "Level_3.tmx",
+        "Tilesets_special/Dungeon2_Tileset.tsx",
+        "Tilesets_special/Jungle.tsx",
+        "Tilesets_special/PlayerTileset.tsx",
+        "Tilesets_special/Dungeon3_Tileset.tsx",
+        "Tilesets_format/Forest.tsx",
+        "Tilesets_format/Jungle.tsx",
+        "Tilesets_format/Portal.tsx",
+        "Tilesets_special/Rogue_creatures.tsx",
+        "Tilesets_format/Dungeon3_Tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
